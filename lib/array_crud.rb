@@ -32,7 +32,7 @@ end
 
 def remove_element_from_start_of_array(array)
 
-new = ["Uhtred", "King", "Of", "Bubbenburg", "wow"]
+new = ["wow", "King", "Of", "Bubbenburg", "Uhtred"]
 new.shift
 
 end
