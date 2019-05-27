@@ -51,7 +51,10 @@ new[0]
 
 end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array(array
+
+new = ["ha", "haha", "hahaha", "arrays!"]
+new[-1]
 
 
 end
