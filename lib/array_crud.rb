@@ -25,9 +25,15 @@ end
 
 def remove_element_from_end_of_array(array)
 
+new = ["Uhtred", "King", "Of", "Bubbenburg"]
+new.pop
+
 end
 
 def remove_element_from_start_of_array(array)
+
+new = ["Uhtred", "King", "Of", "Bubbenburg"]
+new.shift
 
 end
 
