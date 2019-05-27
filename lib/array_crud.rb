@@ -46,8 +46,12 @@ end
 
 def retrieve_first_element_from_array(array)
 
+new = ["wow", "i", "fuck", "you"]
+new[0]
+
 end
 
 def retrieve_last_element_from_array(array)
+
 
 end
